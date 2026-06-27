@@ -1,1 +1,27 @@
 
+# Police
+font_family      JetBrainsMono Nerd Font
+font_size        15.0
+
+# Transparence
+background_opacity 0.85
+
+background_blur 0
+
+# Padding intérieur
+window_padding_width 12
+
+# Curseur
+cursor_shape     beam
+cursor_blink_interval 0.5
+
+
+# Shell
+
+shell /usr/bin/zsh
+
+
+# BEGIN_KITTY_THEME
+# Kanagawa
+include current-theme.conf
+# END_KITTY_THEME
